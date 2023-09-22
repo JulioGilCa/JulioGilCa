@@ -37,5 +37,5 @@
   </p>
  
  <br>
-    <img alt="Codificación nocturna" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="left" style="max-width: 100%; display: inline-block;">
+    <img alt="Codificación nocturna" src="https://tecnologia-innovadora.com/wp-content/uploads/2022/02/que-hacer-para-convertirse-en-ingeniero-en-sistemas-desarrollador-de-sistemas-computacionales-programacion-informatica.gif" align="left" style="max-width: 100%; display: inline-block;">
 </br>
